@@ -17,15 +17,10 @@ class ViewController: UIViewController {
     
     @IBAction func goButton(_ sender: Any) {
         
-
+        resultsLabel.text = "Q"
     }
 
     
+}
     
-    
-
-    
-
-
-
 
